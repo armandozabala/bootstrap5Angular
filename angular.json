@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "boatsapp"
+    }
+  },
+  "defaultProject": "boatsapp",
+  "cli": {
+    "analytics": false
+  }
 }
